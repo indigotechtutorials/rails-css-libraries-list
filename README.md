@@ -27,4 +27,4 @@ Great component library perfect for beginnners and people who don't want to worr
 - [Phlex & Rails Designer](https://www.youtube.com/watch?v=w-Q2CqfqyVU)
 - [Trying Bootstrap](https://www.youtube.com/watch?v=pnF7Znxdv30)
 - [Bootstrap Templates](https://www.youtube.com/watch?v=-0T8DguxiL0)
-- [Building Spotify with TailwindCSS](https://www.youtube.com/watch?v=_W0uoNuyUYk)# rails-css-libraries-list
+- [Building Spotify with TailwindCSS](https://www.youtube.com/watch?v=_W0uoNuyUYk)
